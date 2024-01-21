@@ -32,7 +32,7 @@ Repositório de cursos e certificados Dio.me
 
 </details>
 
-## Abaixo cursos basicos sobre AWS:
+## Abaixo certificados basicos sobre AWS:
 ---
 
 <details>
@@ -42,4 +42,53 @@ Repositório de cursos e certificados Dio.me
 - [CRIANDO CONTA](https://hermes.digitalinnovation.one/certificates/0649F775.pdf) - Dio.me - Certification.
 - [AWS Official Content](https://www.dio.me/certificate/EB15A9F6/share) - Dio.me - Certification.
   
+</details>
+
+## Certificados dev com chat-gpt:
+---
+<details>
+   <summary><strong>👨‍🎓 Certificados Chat_Gpt</strong></summary> 
+
+- [CERTIFICADO - ChatGPT](https://hermes.digitalinnovation.one/certificates/90499CE3.pdf?_gl=1*rlktp0*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwNTMzNjYxMi41MDIuMS4xNzA1MzUxMjU1LjYwLjAuMA..) - Dio.me - Certification.
+- [Uso para Desenvolvedores](https://hermes.digitalinnovation.one/certificates/9EEEA735.pdf?_gl=1*1vifqav*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwNTQ0MTkyNi41MDYuMS4xNzA1NDQyMTAwLjQwLjAuMA..) - Dio.me - Certification.
+- [Chat-gpt - Devs](https://hermes.digitalinnovation.one/certificates/524A26A0.pdf?_gl=1*xtag5i*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwNTY2NjY0OS41MTguMS4xNzA1NjY3OTEzLjI1LjAuMA..) - Dio.me - Certification.
+
+   
+</details>
+
+## Certificados C#:
+---
+
+<details>
+   <summary><strong>👨‍🎓 Certificados C#</strong></summary> 
+
+- [Herança-Polimorfismo](https://hermes.digitalinnovation.one/certificates/92C90278.pdf?_gl=1*10zd4b0*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwNDEyMDUyOS40NjUuMS4xNzA0MTIwNTgyLjcuMC4w) - Dio.me - Certification.
+- [Abstração-Encapsulamento](https://hermes.digitalinnovation.one/certificates/CE821FCF.pdf?_gl=1*1wrzjd0*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwNDEyMDUyOS40NjUuMS4xNzA0MTIwNjA5LjYwLjAuMA..) - Dio.me - Certification.
+- [Classes abstratas-interfaces](https://hermes.digitalinnovation.one/certificates/E01DC6B7.pdf?_gl=1*96bc7x*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwNDE1MDY4My40NjcuMS4xNzA0MTU3MTQwLjU4LjAuMA..) - Dio.me - Certification.
+- [Testes unitários](https://hermes.digitalinnovation.one/certificates/2886631A.pdf?_gl=1*2vual9*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwNDIxMjk5NC40NzEuMS4xNzA0MjEzMDc3LjUzLjAuMA..) - Dio.me - Certification.
+- [Formação C#](https://hermes.digitalinnovation.one/certificates/EAF36581.pdf?_gl=1*yr8nis*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwNDIyNTQxNS40NzMuMS4xNzA0MjI5NDg2LjQ1LjAuMA..) - Dio.me - Certification.
+   
+</details>
+
+## Alguns projetos realizados enquanto estudadnte na Dio.me:
+---
+
+<details>
+  <summary><strong>Alguns projetos realizados na Dio.me:</strong></summary>
+  
+## Projeto Laravel:
+- [Laravel get Api](https://shooping-laravel.vercel.app/) - Projeto buscando dados da API de produtos, contendo rotas da API como também renderiza a aplicação web.
+
+## Projetos JOGOS javaScript:
+- [Projeto - Mario Bros](https://reinaldoper.github.io/game-mario/) - Projeto de game, utilizando conceitos de js puro.
+- [Piano - simulator](https://reinaldoper.github.io/piano-js/) - Projeto - Simulador de piano.
+- [Jogo - yu-giouh-game](https://reinaldoper.github.io/yu-giouh-game/) - Projeto - Jogo de cartas.
+
+## Projeto em Angular:
+- [Project-angular QuizzBuzz](https://master--scintillating-swan-277c5c.netlify.app/) - Projeto de perguntas e respostas, feito em angular. 
+- [Project-angular Pokedex](https://master--subtle-belekoy-eacccf.netlify.app/) - Projeto da famosa API de Pokemons, feito em angular.
+- [Project-Mini-Blog using angular](https://master--lively-puppy-aafe9d.netlify.app/) - Projeto blog da trilogia dos X-MEN.
+- [Project using Angular_Digimon](https://master--euphonious-chaja-55b1e0.netlify.app/) - Projeto feito em angular consumindo a API-Digimons.
+- [Learning page - css](https://reinaldoper.github.io/trilha-css-desafio-01) - Projeto - trilha do css.
+
 </details>
