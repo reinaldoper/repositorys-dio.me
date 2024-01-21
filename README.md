@@ -1,4 +1,4 @@
-<div>
+<div align="center">
    <img src="dio.me.jpg" alt="image dio.me" />
 </div>
 
