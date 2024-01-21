@@ -2,7 +2,6 @@
 Repositório de cursos e certificados Dio.me
 
 ## Abaixo todos os certificados e conquistas na trilha Dio.me:
----
 
 <details>
    <summary><strong>👨‍🎓 Certificados Dio.me</strong></summary> 
@@ -32,8 +31,9 @@ Repositório de cursos e certificados Dio.me
 
 </details>
 
-## Abaixo certificados basicos sobre AWS:
 ---
+
+## Abaixo certificados basicos sobre AWS:
 
 <details>
    <summary><strong>👨‍🎓 Certificados AWS Dio.me:</strong></summary>
@@ -55,9 +55,9 @@ Repositório de cursos e certificados Dio.me
 
    
 </details>
+---
 
 ## Certificados C#:
----
 
 <details>
    <summary><strong>👨‍🎓 Certificados C#</strong></summary> 
@@ -70,8 +70,9 @@ Repositório de cursos e certificados Dio.me
    
 </details>
 
-## Alguns projetos realizados enquanto estudadnte na Dio.me:
 ---
+
+## Alguns projetos realizados enquanto estudadnte na Dio.me:
 
 <details>
   <summary><strong>Alguns projetos realizados na Dio.me:</strong></summary>
