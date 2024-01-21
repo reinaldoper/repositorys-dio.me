@@ -85,7 +85,7 @@ Repositório de cursos e certificados Dio.me
 - [Piano - simulator](https://reinaldoper.github.io/piano-js/) - Projeto - Simulador de piano.
 - [Jogo - yu-giouh-game](https://reinaldoper.github.io/yu-giouh-game/) - Projeto - Jogo de cartas.
 
-## Projeto em Angular:
+## Projetos em Angular:
 - [Project-angular QuizzBuzz](https://master--scintillating-swan-277c5c.netlify.app/) - Projeto de perguntas e respostas, feito em angular. 
 - [Project-angular Pokedex](https://master--subtle-belekoy-eacccf.netlify.app/) - Projeto da famosa API de Pokemons, feito em angular.
 - [Project-Mini-Blog using angular](https://master--lively-puppy-aafe9d.netlify.app/) - Projeto blog da trilogia dos X-MEN.
