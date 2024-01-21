@@ -76,9 +76,6 @@ Repositório de cursos e certificados Dio.me
 ---
 
 ## Alguns projetos realizados enquanto estudadnte na Dio.me:
-
-<details>
-  <summary><strong>Alguns projetos realizados na Dio.me:</strong></summary>
   
 ## Projeto Laravel:
 - [Laravel get Api](https://shooping-laravel.vercel.app/) - Projeto buscando dados da API de produtos, contendo rotas da API como também renderiza a aplicação web.
@@ -95,4 +92,3 @@ Repositório de cursos e certificados Dio.me
 - [Project using Angular_Digimon](https://master--euphonious-chaja-55b1e0.netlify.app/) - Projeto feito em angular consumindo a API-Digimons.
 - [Learning page - css](https://reinaldoper.github.io/trilha-css-desafio-01) - Projeto - trilha do css.
 
-</details>
