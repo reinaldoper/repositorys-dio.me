@@ -44,8 +44,10 @@ Repositório de cursos e certificados Dio.me
   
 </details>
 
-## Certificados dev com chat-gpt:
 ---
+
+## Certificados dev com chat-gpt:
+
 <details>
    <summary><strong>👨‍🎓 Certificados Chat_Gpt</strong></summary> 
 
