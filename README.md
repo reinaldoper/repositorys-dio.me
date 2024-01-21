@@ -1,3 +1,4 @@
+<img src="dio.me.jpg" alt="image dio.me" />
 # repositorys-dio.me
 Repositório de cursos e certificados Dio.me
 
