@@ -13,6 +13,7 @@ Repositório de cursos e certificados Dio.me
 <details>
    <summary><strong>👨‍🎓 Certificados Dio.me</strong></summary> 
 
+- [BOOTCAMP - ANGULAR](https://hermes.digitalinnovation.one/certificates/73554359.pdf?_gl=1*yp5rfw*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwNjAyMDMwMS41MzguMS4xNzA2MDI1MzA2LjU5LjAuMA..) - Dio.me - Certification.
 - [CERTIFICADO - ANGULAR](https://hermes.digitalinnovation.one/certificates/4BEB2D2C.pdf?_gl=1*1rcljph*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMDM2NTgzMC4zMDYuMS4xNzAwMzgxNzE2LjYwLjAuMA..) - Dio.me - Certification.
 - [DESENVOLVIMNTO - JOGOS](https://hermes.digitalinnovation.one/certificates/4FC8E967.pdf?_gl=1*ph7l4q*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMTQzNjUzOC4zNTUuMS4xNzAxNDM2Njc3LjYwLjAuMA..) - Dio.me - Certification.
 - [CERTIFICADO - API-LARAVEL](https://hermes.digitalinnovation.one/certificates/17DDD196.pdf?_gl=1*jgbz3y*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwMDM2NTgzMC4zMDYuMS4xNzAwMzgxNjU2LjU5LjAuMA..) - Dio.me - Certification.
