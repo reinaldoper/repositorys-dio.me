@@ -1,7 +1,7 @@
 All rights reserved - [LICENSE](LICENCE)
 
 <div align="center">
-   <img src="dio.me.jpg" alt="image dio.me" />
+   <img src="dio.me.jpg" alt="image dio.me" style="border-radius: 80% 50% 40% 10%;" />
 </div>
 
 
