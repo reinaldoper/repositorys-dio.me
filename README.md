@@ -55,6 +55,17 @@ Repositório de cursos e certificados Dio.me
 
 ---
 
+## Trabalhando com Machine Learning na Prática no Azure ML:
+
+<details>
+   <summary><strong>👨‍🎓 Certificados Azure Dio.me:</strong></summary>
+
+- [Machine Learning](https://hermes.digitalinnovation.one/certificates/0FSM9B89.pdf?_gl=1*qz0xhr*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwODAzNDQxMi42MzUuMS4xNzA4MDM2NTAyLjQxLjAuMA..) - Dio.me - Certification.
+
+</details>
+
+---
+
 ## Certificados dev com chat-gpt:
 
 <details>
