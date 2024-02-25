@@ -61,6 +61,7 @@ Repositório de cursos e certificados Dio.me
    <summary><strong>👨‍🎓 Certificados Azure Dio.me:</strong></summary>
 
 - [Machine Learning](https://hermes.digitalinnovation.one/certificates/0FSM9B89.pdf?_gl=1*qz0xhr*_ga*MTU5MjQzMDc0OC4xNjkwNDkwNzU3*_ga_7GXMH3CQ72*MTcwODAzNDQxMi42MzUuMS4xNzA4MDM2NTAyLjQxLjAuMA..) - Dio.me - Certification.
+- [Microsoft Azure AI Fundamentals](https://hermes.dio.me/certificates/ZE0QADI5.pdf?_gl=1*14nbwvp*_gcl_au*NDI1NTg5NDI5LjE3MDYyMTI4Mzc.) - Dio.me - Certification.
 
 </details>
 
