@@ -103,6 +103,7 @@ Repositório de cursos e certificados Dio.me
 
 - [Objetos-Classes](https://hermes.dio.me/certificates/JEDB1ZDU.pdf?_gl=1*75ptt2*_gcl_au*NDI1NTg5NDI5LjE3MDYyMTI4Mzc.) - Dio.me - Certification.
 - [Fundamentos](https://hermes.dio.me/certificates/NV8PXQMV.pdf?_gl=1*155275w*_gcl_au*NDI1NTg5NDI5LjE3MDYyMTI4Mzc.) - Dio.me - Certification.
+- [Metaprogramação](https://hermes.dio.me/certificates/KC2JRTC1.pdf?_gl=1*1d8sr1n*_gcl_au*NDI1NTg5NDI5LjE3MDYyMTI4Mzc.) - Dio.me - Certification.
    
 </details>
 
