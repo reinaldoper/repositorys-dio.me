@@ -96,6 +96,18 @@ Repositório de cursos e certificados Dio.me
 
 ---
 
+## Certificados Ruby on Rails:
+
+<details>
+   <summary><strong>👨‍🎓 Certificados Ruby</strong></summary> 
+
+- [Objetos-Classes](https://hermes.dio.me/certificates/JEDB1ZDU.pdf?_gl=1*75ptt2*_gcl_au*NDI1NTg5NDI5LjE3MDYyMTI4Mzc.) - Dio.me - Certification.
+- [Fundamentos](https://hermes.dio.me/certificates/NV8PXQMV.pdf?_gl=1*155275w*_gcl_au*NDI1NTg5NDI5LjE3MDYyMTI4Mzc.) - Dio.me - Certification.
+   
+</details>
+
+---
+
 ## Alguns projetos realizados enquanto estudadnte na Dio.me:
   
 ## Projeto Laravel:
