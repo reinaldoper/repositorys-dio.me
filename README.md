@@ -55,7 +55,7 @@ Repositório de cursos e certificados Dio.me
 
 ---
 
-## Certificados C#:
+## Certificados Python:
 
 <details>
    <summary><strong>👨‍🎓 Certificados Python</strong></summary> 
