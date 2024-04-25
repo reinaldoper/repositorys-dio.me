@@ -55,6 +55,18 @@ Repositório de cursos e certificados Dio.me
 
 ---
 
+## Certificados C#:
+
+<details>
+   <summary><strong>👨‍🎓 Certificados Python</strong></summary> 
+
+- [POO](https://www.dio.me/certificate/T9UM7HJE) - Dio.me - Certification.
+- [Gerenciamento-Pacotes](https://www.dio.me/certificate/ETE5WMVB) - Dio.me - Certification.
+   
+</details>
+
+---
+
 ## Trabalhando com Machine Learning na Prática no Azure ML:
 
 <details>
