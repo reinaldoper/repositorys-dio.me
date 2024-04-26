@@ -62,6 +62,7 @@ Repositório de cursos e certificados Dio.me
 
 - [POO](https://www.dio.me/certificate/T9UM7HJE) - Dio.me - Certification.
 - [Gerenciamento-Pacotes](https://www.dio.me/certificate/ETE5WMVB) - Dio.me - Certification.
+- [DB-relacionais](https://www.dio.me/certificate/UKKGQAM1) - Dio.me - Certification.
    
 </details>
 
