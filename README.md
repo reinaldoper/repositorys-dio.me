@@ -64,6 +64,7 @@ Repositório de cursos e certificados Dio.me
 - [Gerenciamento-Pacotes](https://www.dio.me/certificate/ETE5WMVB) - Dio.me - Certification.
 - [DB-relacionais](https://www.dio.me/certificate/UKKGQAM1) - Dio.me - Certification.
 - [fastAPI](https://www.dio.me/certificate/RVAROKUL) - Dio.me - Certification.
+- [Python AI Backend Developer](https://www.dio.me/certificate/4HGB8FSR) - Dio.me - Certification.
    
 </details>
 
