@@ -55,21 +55,6 @@ Repositório de cursos e certificados Dio.me
 
 ---
 
-## Certificados Python:
-
-<details>
-   <summary><strong>👨‍🎓 Certificados Python</strong></summary> 
-
-- [POO](https://www.dio.me/certificate/T9UM7HJE) - Dio.me - Certification.
-- [Gerenciamento-Pacotes](https://www.dio.me/certificate/ETE5WMVB) - Dio.me - Certification.
-- [DB-relacionais](https://www.dio.me/certificate/UKKGQAM1) - Dio.me - Certification.
-- [fastAPI](https://www.dio.me/certificate/RVAROKUL) - Dio.me - Certification.
-- [Python AI Backend Developer](https://www.dio.me/certificate/4HGB8FSR) - Dio.me - Certification.
-   
-</details>
-
----
-
 ## Trabalhando com Machine Learning na Prática no Azure ML:
 
 <details>
