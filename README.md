@@ -105,6 +105,7 @@ Repositório de cursos e certificados Dio.me
 - [Fundamentos](https://hermes.dio.me/certificates/NV8PXQMV.pdf?_gl=1*155275w*_gcl_au*NDI1NTg5NDI5LjE3MDYyMTI4Mzc.) - Dio.me - Certification.
 - [Metaprogramação](https://hermes.dio.me/certificates/KC2JRTC1.pdf?_gl=1*1d8sr1n*_gcl_au*NDI1NTg5NDI5LjE3MDYyMTI4Mzc.) - Dio.me - Certification.
 - [Metodos dinamicos](https://hermes.dio.me/certificates/Y4KI9LSQ.pdf) - Dio.me - Certification.
+- [Criando APIs RESTful](https://www.dio.me/certificate/HNUZPOY5) - Dio.me - Certification.
    
 </details>
 
